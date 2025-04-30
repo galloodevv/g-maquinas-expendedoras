@@ -23,5 +23,9 @@ Config = {
         `prop_vend_water_01`
 
     },
+    
+    Account = 'bank',
+
+    Inventory = 'ox_inventory', --ox_inventory or default
 
 }
