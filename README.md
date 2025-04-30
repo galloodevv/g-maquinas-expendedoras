@@ -93,10 +93,4 @@ Config = {
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT. ¡Disfruta y comparte! 💖
-
----
-
 © 2025 GallooDevv - ¡Gracias por usar este script! 🌟
